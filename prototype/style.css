@@ -9,5 +9,8 @@ img {
 
 ul  {
     list-style: none;
-    color: blue;
+}
+
+.item {
+    color: #0000FF;
 }
