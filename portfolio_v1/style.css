@@ -1,0 +1,19 @@
+body {
+    background: #f1faee;
+}
+
+img {
+    width: 150px;
+    height: 100pX;
+}
+
+h1 {
+    color: #e63946;
+}
+h2 {
+    color: #1d3557;
+}
+
+ul {
+    list-style: none;
+}
